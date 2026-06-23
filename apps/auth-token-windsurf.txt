@@ -3,3 +3,5 @@ ott$iXtRfZFEwAQ6QXcYEGfBoZc3Efp-GXSTNrYpb5uwqnE
 ott$o_IwM5CE5vSQHnZkdsJSs-As6oaqoTtPtHz8DUjNaHQ
 
 ott$Rbjy_wr7CgJc0fz5pDzQ0w8Qr6ilV7z2912hIaRP0SY
+
+https://windsurf.com/windsurf/signin?response_type=token&client_id=3GUryQ7ldAeKEuD2obYnppsnmj58eP5u&redirect_uri=http%3A%2F%2F127.0.0.1%3A64494%2Fauth&state=a68f9421-0676-45e1-a2b5-cbc9370af597&prompt=login&redirect_parameters_type=query
